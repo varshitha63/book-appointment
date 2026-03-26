@@ -1,5 +1,5 @@
 {
-  "name": "Dentist Booking Platform",
-  "description": "A comprehensive platform for booking dentist appointments with an admin panel for management.",
-  "requestFramePermissions": []
+  {
+  "name": "Web Application",
+  "description": "Custom built web application"
 }
